@@ -224,6 +224,12 @@ A curated list of awesome reversing resources
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [smalidea](https://github.com/JesusFreke/smali/wiki/smalidea)
+* [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
+* [enjarify](https://github.com/google/enjarify)
+* [JD-GUI](http://jd.benow.ca/#jd-gui-overview)
+* [Luyten](https://github.com/deathmarine/Luyten)
+* [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio)
 
 ## Yara
 
