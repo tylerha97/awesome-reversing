@@ -43,6 +43,7 @@ A curated list of awesome reversing resources
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
 * [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
+* [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux )
 
 ## Courses
 
