@@ -135,6 +135,7 @@ A curated list of awesome reversing resources
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
 * [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
+* [JITWatch](https://github.com/AdoptOpenJDK/jitwatch)
 
 ## Import Reconstruction
 
