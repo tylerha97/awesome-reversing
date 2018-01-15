@@ -174,7 +174,7 @@ A curated list of awesome reversing resources
 * [fs_usage](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html) - report system calls and page faults related to filesystem activity in real-time.  File I/O: fs_usage -w -f filesystem 
 * [dmesg](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html) - display the system message buffer
 * [Manticore](https://github.com/trailofbits/manticore) - Dynamic binary instrumentation
-* [Triton] (https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis framework
+* [Triton](https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis framework
 * [Intel Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) - Dynamic binary instrumentation by intel 
 
 ## Debugging
