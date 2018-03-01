@@ -73,6 +73,7 @@ A curated list of awesome reversing resources
 *Practice Reverse Engineering.  Be careful with malware.*
 
 * [Crackmes.de](http://www.crackmes.de/)
+* [Crackmes.cf(a Crackmes.de mirror)](http://crackmes.cf/)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
 * [Flare-on Challenges](http://flare-on.com/)
@@ -96,6 +97,7 @@ A curated list of awesome reversing resources
 * [Hex Workshop](http://www.hexworkshop.com/)
 * [HexFiend](http://ridiculousfish.com/hexfiend/)
 * [Hiew](http://www.hiew.ru/)
+* [XVI32](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm)
 
 ## Binary Format
 
