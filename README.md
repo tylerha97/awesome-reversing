@@ -253,6 +253,7 @@ A curated list of awesome reversing resources
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [Dexcalibur](https://github.com/FrenchYeti/dexcalibur)
 
 ## Yara
 
