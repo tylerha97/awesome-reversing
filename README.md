@@ -103,6 +103,7 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [Root Me Cracking](https://www.root-me.org/en/Challenges/Cracking)
 
 ## Hex Editors
 
