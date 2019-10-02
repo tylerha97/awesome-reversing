@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 * [Binary Analysis](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
+* [radare2book](https://radare.gitbooks.io/radare2book)
 
 ## Courses
 
