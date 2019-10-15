@@ -59,7 +59,7 @@ A curated list of awesome reversing resources
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Binary Auditing Course](http://www.binary-auditing.com/)
+* [Binary Auditing Course](https://github.com/Info-security/binary-auditing-training)
 * [TiGa's Video Tutorials](http://www.woodmann.com/TiGa/)
 * [Legend of Random](https://tuts4you.com/download.php?list.97)
 * [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
