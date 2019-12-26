@@ -83,6 +83,7 @@ A curated list of awesome reversing resources
 * [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 * [MalwareAnalysisHedgehog](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [nasm - RE (French)](https://www.youtube.com/c/nasmRE)
 
 
 ## Practice
@@ -149,6 +150,7 @@ A curated list of awesome reversing resources
 
 *Binary Analysis Resources*
 
+* [Triton](https://triton.quarkslab.com/)
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
@@ -263,3 +265,10 @@ A curated list of awesome reversing resources
 * [yarGen](https://github.com/Neo23x0/yarGen)
 * [yabin](https://github.com/AlienVault-OTX/yabin)
 * [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
+
+## Obfuscators
+
+* [ollvm](https://github.com/obfuscator-llvm/obfuscator)
+* [movfuscator](https://github.com/Battelle/movfuscator)
+* [Tigress](http://tigress.cs.arizona.edu/)
+* [AD_1DA (metamorphism)](https://github.com/n4sm/AD_1DA)
