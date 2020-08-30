@@ -9,7 +9,7 @@ A curated list of awesome reversing resources
     - [Practice](#practice)
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
-    - [Disassemblers](#disassemblers)
+    - [Disassemblers](#disassemblersdecompilers)
     - [Binary Analysis](#binary-analysis)
     - [Bytecode Analysis](#bytecode-analysis)
     - [Import Reconstruction](#import-reconstruction)
