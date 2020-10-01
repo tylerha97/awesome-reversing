@@ -51,7 +51,7 @@ A curated list of awesome reversing resources
 * [Binary Analysis](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
-
+* [Attacking Network Protocols])(https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation/dp/1593277504)
 ## Courses
 
 *Reverse Engineering Courses*
@@ -103,6 +103,7 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [theZoo](https://github.com/ytisf/theZoo)
 
 ## Hex Editors
 
