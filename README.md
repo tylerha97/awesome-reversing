@@ -175,6 +175,7 @@ A curated list of awesome reversing resources
 
 *Dynamic Analysis Tools*
 
+* [Frida](https://frida.re/)
 * [ProcessHacker](http://processhacker.sourceforge.net/)
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
 * [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/processmonitor)
