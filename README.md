@@ -144,6 +144,7 @@ A curated list of awesome reversing resources
 * [fREedom](https://github.com/cseagle/fREedom)
 * [Retdec](https://retdec.com/)
 * [Snowman](https://derevenets.com/)
+* [dotPeek](https://www.jetbrains.com/decompiler/)
 
 ## Binary Analysis
 
@@ -254,6 +255,8 @@ A curated list of awesome reversing resources
 * [dex2jar](https://github.com/pxb1988/dex2jar)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+* [Jadx](https://github.com/skylot/jadx)
+* [Smali](https://github.com/JesusFreke/smali)
 
 ## Yara
 
