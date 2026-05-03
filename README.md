@@ -153,6 +153,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [assembly-repl](https://github.com/pirate/assembly-repl) - Native raw assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux.
 
 ## Bytecode Analysis
 
