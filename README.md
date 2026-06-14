@@ -199,6 +199,7 @@ A curated list of awesome reversing resources
 
 *Debugging Tools*
 
+* [AIDebug](https://github.com/anpa1200/AIDebug) - AI-assisted malware reverse-engineering debugger with ATT&CK, YARA, IOC, JSON, and analyst report output.
 * [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 * [OllyDbg v1.10](http://www.ollydbg.de/)
 * [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
