@@ -96,6 +96,7 @@ A curated list of awesome reversing resources
 * [Github CTF Archives](http://github.com/ctfs/)
 * [Reverse Engineering Challenges](http://challenges.re/)
 * [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
+* [Decomp Academy](https://decomp-academy.dev)
 * [Virusshare.com](http://virusshare.com/)
 * [Contagio](http://contagiodump.blogspot.com/)
 * [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
