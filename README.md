@@ -152,6 +152,7 @@ A curated list of awesome reversing resources
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
+* [fnprint](https://github.com/1rhino2/fnprint)
 * [angr](https://github.com/angr/angr)
 
 ## Bytecode Analysis
