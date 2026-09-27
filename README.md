@@ -263,3 +263,6 @@ A curated list of awesome reversing resources
 * [yarGen](https://github.com/Neo23x0/yarGen)
 * [yabin](https://github.com/AlienVault-OTX/yabin)
 * [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
+
+
+- [ProxSuite PRO](https://github.com/prox0959/ProxSuite-PRO) - 25-in-1 native x64 Windows live memory forensics (Module Stomping, Process Ghosting, NTDLL syscall unhooking), LSASS SSP audit, C2 Named Pipe scanner, and DFIR triage suite.
