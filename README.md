@@ -185,6 +185,7 @@ A curated list of awesome reversing resources
 * [Wireshark](https://www.wireshark.org/download.html)
 * [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
 * [netzob](https://www.netzob.org/)
+* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers USB device protocols from labelled usbmon/USBPcap captures (values, lookup tables, counters, CRCs) and generates Python drivers
 * [Volatility](https://github.com/volatilityfoundation/volatility)
 * [Dumpit](http://www.moonsols.com/products/)
 * [LiME](https://github.com/504ensicsLabs/LiME)
