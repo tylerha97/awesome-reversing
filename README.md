@@ -153,6 +153,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Memory-safe Rust EDR, Host IPS, Universal Binary Inspector, and 7-Ring capability sandbox with eBPF/ETW kernel telemetry and YARA-X.
 
 ## Bytecode Analysis
 
