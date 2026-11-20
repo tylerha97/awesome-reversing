@@ -153,6 +153,7 @@ A curated list of awesome reversing resources
 * [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [binary-audit-pipeline](https://github.com/SpiralRise/binary-audit-pipeline)
 
 ## Bytecode Analysis
 
